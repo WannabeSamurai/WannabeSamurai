@@ -1,34 +1,45 @@
 # Eric Lundin / WannabeSamurai
 
-Architect of ERIC: Execution, Reasoning, Integration, and Control.
-
-## Current Position
-
-ERIC is an active private engineering project. It is **not** public downloadable software, a finished customer product, a self-operating agent, or a demonstrated business-automation platform.
-
-This profile will not present a design goal as a working capability. If something has not been demonstrated, it will be identified as development direction rather than fact.
-
-## What Has Been Demonstrated
-
-- A local AI runtime can run language models on private hardware.
-- ERIC's engineering environment can run structured model tests and retain the resulting records.
-- Parts of the ERIC codebase have automated test coverage.
-- The Android project has built successfully.
-
-Those facts do not establish that ERIC can safely operate customer files, business software, devices, or workflows without further work and acceptance testing.
+Independent systems architect and developer of **ERIC — Execution, Reasoning, Integration, and Control**.
 
 ## ERIC
 
-ERIC is being developed around a simple premise: a language model by itself is not a dependable system for real work. The intended system will add controlled execution, evidence, persistence, and recovery around local models. Those are development goals, not current public product claims.
+ERIC is a private, local-first intelligence and control architecture built around replaceable language models.
 
-## Public Work
+**The model is not the system.**
 
-- [ERIC Architect](https://github.com/WannabeSamurai/ERIC-Architect) — public project position and development direction
+ERIC provides the structure around those models: evidence authority, persistent memory and knowledge retrieval, capability routing, governed execution, durable objectives, verification, recovery, diagnostics, and first-party interfaces.
 
-## Public Boundary
+The central idea is simple: a language model can propose an answer or an action, but generation is not authority. ERIC is designed to determine what evidence is required, what context is authoritative, what execution is permitted, whether an action actually succeeded, and how interrupted work should continue without blindly repeating side effects.
 
-The production ERIC core remains private. No public material includes source code, customer data, credentials, machine-specific controls, private development coordination, or operator information.
+## What I'm Building Around
 
-## Contact
+- local-first AI systems and replaceable model backends
+- evidence-grounded reasoning and factual verification
+- persistent memory and large-document retrieval
+- governed tool, filesystem, and device execution
+- durable objectives, recovery, and runtime state
+- Android and desktop integration
+- model capability evaluation and routing
+- verification-first automation and system architecture
 
-Business and deployment inquiries: contact information forthcoming.
+## Engineering Principle
+
+I try not to confuse **designed**, **implemented**, **tested**, **observed running**, and **currently healthy**.
+
+Those are different evidence states.
+
+ERIC is an active private engineering project, not a public downloadable product. Its production source, runtime data, credentials, machine-specific controls, and private development infrastructure remain private.
+
+## Public ERIC Architecture
+
+The sanitized public architecture, current project position, contribution boundary, and outside-review path are available here:
+
+**[ERIC-Architect](https://github.com/WannabeSamurai/ERIC-Architect)**
+
+Outside review starts with no access to the private ERIC repository or host. Questions, criticism, issues, forks, and public-documentation pull requests can happen without granting private write or runtime authority.
+
+---
+
+**WannabeSamurai**  
+Structure around intelligence. Evidence before authority.
